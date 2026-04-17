@@ -20,3 +20,5 @@ function Nav() { // definir el componente Nav para la barra de navegación
 }
 
 export default Nav; // exportar el componente para su uso en otras partes de la aplicación
+
+//Solo pa que vean que es mi proyecto 
